@@ -1,6 +1,3 @@
-# Multi-Specialist-LLM-Adapter-Fusion
-In this project, we will explore the precision enhancement possibility of specialized domain performance by training and merging different distinct expert adapters and demonstrate the exceptional potential of LoRA Merging in resolving multi-task conflicts and mitigating "Catastrophic Forgetting" caused by LLM fine-tuning.
-
 # Current Updates of Projects (2026.03.01)
 We selected three task scenarios: Jigsaw - Agile Community Rules Classification (https://www.kaggle.com/competitions/jigsaw-agile-community-rules), Squad_v2 (https://huggingface.co/datasets/rajpurkar/squad_v2), SNLI (https://huggingface.co/datasets/stanfordnlp/snli). These three scenarios represent distinct task types:
 
